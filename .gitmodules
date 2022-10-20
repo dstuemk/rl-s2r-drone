@@ -1,0 +1,9 @@
+[submodule "crazyflie-fw-neural-ctrl"]
+	path = crazyflie-fw-neural-ctrl
+	url = https://github.com/dstuemk/crazyflie-fw-neural-ctrl.git
+[submodule "crazyflie-clients-python"]
+	path = crazyflie-clients-python
+	url = https://github.com/dstuemk/crazyflie-clients-python.git
+[submodule "phoenix-drone-simulation"]
+	path = phoenix-drone-simulation
+	url = https://github.com/dstuemk/phoenix-drone-simulation.git
