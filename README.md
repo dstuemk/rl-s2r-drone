@@ -1,4 +1,4 @@
-# Learning-based drone control with (recurrent) neural networks
+# Drone control with (recurrent) neural networks
 
 Use these repositories to train a drone control policy in simulation and deploy it to a real *CrazyFlie 2.1* drone.
 
